@@ -29,4 +29,4 @@ From here you can take the URI and Primary Key, and put them into the API projec
 URI: Azure Cosmos DB Account -> Settings -> Keys -> URI  
 Primary Key: Azure Cosmos DB Account -> Settings -> Keys  
 
-Here you mat select either primary or secondry key, but for this project it must be a read-write key.
+Here you may select either primary or secondry key, but for this project it must be a read-write key.
